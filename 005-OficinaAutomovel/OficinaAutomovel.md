@@ -1,4 +1,4 @@
-# Oficia de automóvel
+# Oficina de automóvel
 
 - Construa o modelo Entidades-Relacionamentos a partir da seguinte
 descrição do sistema: Uma empresa de venda de automóveis retende
